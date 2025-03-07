@@ -1,5 +1,5 @@
 # winpath2wslpath
-Convert directory paths on windows for use on  WSL automatically 
+Convert directory paths on windows to use on  WSL linux like ubuntu or kali automatically 
 
 To build go build -o wslpath wslpath.go
 
